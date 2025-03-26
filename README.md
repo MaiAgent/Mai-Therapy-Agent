@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🌐 <strong>Website</strong>: <a href="https://maiagent.fun">maiagent.fun</a>  
+  🌐 <strong>Website</strong>: <a href="https://maitherapy.fun/">maiagent.fun</a>  
   🐦 <strong>Twitter</strong>: <a href="https://x.com/MaiTherapy">Mai Therapy</a>
 </p>
 
