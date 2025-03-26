@@ -1,4 +1,4 @@
-# Mai Therapy Agent
+<h1 align="center">Mai Therapy Agent</h1>
 
 <p align="center">
   <img src="Chill.png" alt="Mai Therapy Agent Logo" width="250">
